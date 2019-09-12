@@ -1,0 +1,13 @@
+<html>
+<body>
+<h2> JAVASCRIPT STATEMENT </h2>
+<p> A <b>JAVASCRIPT PROGRAM</b> is a list of <b> statement </b>
+to be executed by a computer.</p>
+<p id="d"></p>
+<p id="demo"></p>
+<script>
+var x,y,z; // Statement 1
+x=5; // Statement 2
+y=6; // statement 3
+z=x+y; // Statement 4
+document.getElementById ("demo").innerHTML="the value of z is "

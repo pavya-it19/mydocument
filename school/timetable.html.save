@@ -1,0 +1,81 @@
+<html>
+<head>
+<title> schooltimetable1</title>
+</head>
+<body>
+<table border="1">
+<tr>
+<td>days</td>
+<td>period1</td>
+<td>period2</td>
+<td>break</td>
+<td>period3</td>
+<td>period4</td>
+<td>period5</td>
+<td>break</td>
+<td>period6</td>
+<td>period7</td>
+</tr>
+<tr>
+<td>monday</td>
+<td>english</td>
+<td>tamil</td>
+<td>    </td>
+<td>maths</td>
+<td>science</td>
+<td>social</td>
+<td>      </td>
+<td>pet</td>
+<td>pet</td>
+</tr>
+<tr>
+<td>tuesday</td>
+<td>english</td>
+<td>science</td>
+<td>      </td>
+<td>tamil</td>
+<td>maths</td>
+<td>pet</td>
+<td>   <td>
+<td>yoga</td>
+<td>computer</td>
+</tr>
+<tr>
+<td>wednesday</td>
+<td>maths</td>
+<td>     </td>
+<td>science</td>
+<td>computer</td>
+<td>hindi</td>
+<td>    </td>
+<td>pet</td>
+<td>tamil</td>
+</tr>
+<tr>
+<td>thursday</td>
+<td>hindi</td>
+<td>english</td>
+<td>      </td>
+<td>tamil</td>
+<td>maths</td>
+<td>science</td>
+<td>      </td>
+<td>yoga</td>
+<td>pet</td>
+</tr>
+<tr>
+<td>thursday</td>
+<td>science</td>
+<td>maths</td>
+<td>     </td>
+<td>tamil</td>
+<td>english</td>
+<td>hindi</td>
+<td>    </td>
+<td>social</td>
+<td>pet</td>
+</tr>
+<tr>
+<td>friday</td>
+<td>english</td>
+<td>maths</
